@@ -14,7 +14,7 @@ bool whetherPalindromicString(std::string astring) {
     auto head = astring.begin();
     auto tail = astring.end();
     if (astring.size() == 0) {
-        return false;
+        return true;
     }
     
     std::transform(astring.begin(), astring.end(), astring.begin(),

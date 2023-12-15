@@ -1,5 +1,5 @@
 #include <iostream>
-#include "palindromic_test.cpp"
+#include "ListAndArray/palindromic_test.cpp"
 
 int main(int argc, char** argv) {
     testing::InitGoogleTest(&argc, argv);

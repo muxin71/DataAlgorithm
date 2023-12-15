@@ -4,7 +4,7 @@
 
 TEST(WhetherPalindromicStringTest, EmptyString) {
     std::string input = "";
-    bool expected = false;
+    bool expected = true;
     bool result = whetherPalindromicString(input);
     EXPECT_EQ(expected, result);
 }

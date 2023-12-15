@@ -11,7 +11,6 @@
 
 //START_SPACE(ALO)
 
-
 bool whetherPalindromicString(std::string str) {
     int head = 0;
     int tail = str.size() - 1;

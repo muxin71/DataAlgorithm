@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanyuanfei/room/da/ListAndArray/palindromic.cpp
+palindromic.hpp
+/home/hanyuanfei/room/da/ListAndArray/palindromic.hpp
+
+/home/hanyuanfei/room/da/ListAndArray/palindromic.hpp
+iostream
+-
+string
+-
+algorithm
+-
+cctype
+-
+
+/home/hanyuanfei/room/da/ListAndArray/palindromic_test.cpp
+gtest/gtest.h
+-
+palindromic.hpp
+/home/hanyuanfei/room/da/ListAndArray/palindromic.hpp
+

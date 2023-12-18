@@ -1,0 +1,8 @@
+/home/hanyuanfei/room/da/build/CMakeFiles/rebuild_cache.dir
+/home/hanyuanfei/room/da/build/CMakeFiles/edit_cache.dir
+/home/hanyuanfei/room/da/build/CMakeFiles/test.dir
+/home/hanyuanfei/room/da/build/CMakeFiles/coverage.dir
+/home/hanyuanfei/room/da/build/ListAndArray/CMakeFiles/rebuild_cache.dir
+/home/hanyuanfei/room/da/build/ListAndArray/CMakeFiles/edit_cache.dir
+/home/hanyuanfei/room/da/build/ListAndArray/CMakeFiles/test.dir
+/home/hanyuanfei/room/da/build/ListAndArray/CMakeFiles/PalindromicTests.dir

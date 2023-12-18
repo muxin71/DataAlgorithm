@@ -1,0 +1,1 @@
+/usr/bin/c++ --coverage CMakeFiles/PalindromicTests.dir/palindromic_test.cpp.o CMakeFiles/PalindromicTests.dir/palindromic.cpp.o -o PalindromicTests  -lgtest -lgtest_main -lpthread 

@@ -43,3 +43,10 @@ TEST(WhetherPalindromicStringTest, MixedCasePalindrome) {
     bool result = whetherPalindromicString(input);
     EXPECT_EQ(expected, result);
 }
+
+TEST(WhetherPalindromicStringTest, WithOtherCharacters) {
+    std::string input = "Racecar * *_ racecaR";
+    bool expected = true;
+    bool result = whetherPalindromicString(input);
+    EXPECT_EQ(expected, result);
+}
